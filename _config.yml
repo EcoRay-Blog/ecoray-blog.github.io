@@ -3,12 +3,12 @@
 #
 
 # Site details (displayed in the header)
-author: Company
-name: Company Blog
-title: Company Blog
-description: A Description of the Blog
-keywords: "money, optimism, achievement"
-logo: images/logo.jpg
+author: EcoRay
+name: EcoRay Blog
+title: EcoRay Blog
+description: We act as your advisor - or “advocate” - throughout the process, always representing your interests. Using transparent calculations, realistic savings estimates, and AI-based system recommendations, we help you make an informed decision. You receive competitive offers from selected partners, and we ensure the entire journey - from first click to completed installation - is seamless and trustworthy.
+keywords: "solceller, solcelleanlæg, solceller til hus, solcelle pris, køb solceller, bedste solcelleanlæg, solcelle beregner, solceller med batteri, solceller finansiering, hvad koster solceller, solcelle tilbud, solceller og tilskud, solcelle investering, solceller parcelhus, spar på elregning, solcelle rådgivning, sammenlign solceller, solceller 2025, solceller Danmark, solceller gennemsigtighed"
+logo: images/logo.png
 
 # Language of the website
 locale: en-US
@@ -16,49 +16,51 @@ locale: en-US
 # Company details
 company:
   analytics:
-    google_id: TEST_ID
-    google_ads_id: TEST_ID
-    microsoft_clarity_id: TEST_ID
+    google_id: 
+    google_ads_id: 
+    microsoft_clarity_id: 
   cta:
-    text: "Visit our website"
-    url: "/"
+    text: "Use Our Calculator"
+    url: "https://www.ecoray.dk/en/calculator/"
   socials:
-    youtube: "@username"
-    instagram: username
-    facebook: username
-    tiktok: "@username"
-    x: username
-    linkedin: in/username
-    pinterest: username
-    telegram: username
-    discord: username
-    github: username
-    email: test@test.com
-    phone: +4512345678
+    youtube: 
+    instagram: 
+    facebook: 
+    tiktok: 
+    x: 
+    linkedin: 
+    pinterest: 
+    telegram: 
+    discord: 
+    github: 
+    email: 
+    phone: 
   icon_size: "24"
   colors:
     main:
-      background: "#19191f"
-      foreground: "#f1f1f1"
+      background: "#000"
+      foreground: "#fff"
     body:
-      background: "#f1f1f1"
-      foreground: "#19191f"
-    accent: "#E74727"
+      background: "#000"
+      foreground: "#fff"
+    accent: "#000"
   fonts:
     google:
       - "Roboto:ital,wght@0,100..900;1,100..900"
-    heading: "'Helvetica Neue', 'Roboto'"
-    body: "'Helvetica Neue', 'Roboto'"
+    heading: "'Roboto'"
+    body: "'Roboto'"
 
 # Navigation items
 navigation:
   header:
-    - title: "CTA"
-      url: "/"
-    - title: "CTA"
-      url: "/"
-    - title: "CTA"
-      url: "/"
+    - title: "Visit Website"
+      url: "https://ecoray.dk/dk"
+    - title: "Guide"
+      url: "https://ecoray.dk/dk/guide"
+    - title: "About"
+      url: "https://ecoray.dk/dk/about"
+    - title: "Partners"
+      url: "https://ecoray.dk/dk/partners"
   footer:
     - title: "Terms and Conditions"
       url: "/terms-and-conditions"
@@ -69,7 +71,7 @@ navigation:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://127.0.0.1:4000/
+url: https://ecoray-blog.github.io/
 
 # Paginate after X amount of posts
 paginate: 10

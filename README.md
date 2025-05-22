@@ -1,1 +1,1 @@
-# Company Blog
+# EcoRay Blog
