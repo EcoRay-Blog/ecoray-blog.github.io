@@ -38,12 +38,12 @@ company:
   icon_size: "24"
   colors:
     main:
-      background: "#000"
+      background: "#002e1f"
       foreground: "#fff"
     body:
-      background: "#000"
-      foreground: "#fff"
-    accent: "#000"
+      background: "#fff"
+      foreground: "#000"
+    accent: "#137547"
   fonts:
     google:
       - "Roboto:ital,wght@0,100..900;1,100..900"
